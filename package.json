@@ -2,26 +2,19 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Meu portfólio pessoal na web",
-  "main": "app.js",
   "scripts": {
-    "start": "node app",
-    "dev": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gilmarandrade/portfolio.git"
+    "url": "git+https://github.com/gilmarandrade/gilmarandrade.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gilmarandrade/portfolio/issues"
+    "url": "https://github.com/gilmarandrade/gilmarandrade.github.io/issues"
   },
-  "homepage": "https://github.com/gilmarandrade/portfolio#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  },
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/gilmarandrade/gilmarandrade.github.io#readme",
+  "devDependencies": {},
+  "dependencies": {}
 }
